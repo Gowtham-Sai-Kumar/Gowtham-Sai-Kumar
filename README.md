@@ -13,12 +13,12 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING SVG — MULTI LINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=F7A800&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Gowtham+Sai+Kumar!;%F0%9F%92%BB+Software+Engineer+%7C+3.3+Years+XP;%F0%9F%93%8A+Power+BI+%7C+SSRS+%7C+SQL+Wizard;%F0%9F%8C%90+Building+the+Web%2C+One+Pixel+at+a+Time;%F0%9F%9A%80+Turning+Data+into+Decisions!)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=F7A800&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Gowtham+Sai+Kumar!;%F0%9F%92%BB+Software+Engineer+%7C+3.3+Years+XP;%F0%9F%93%8A+Power+BI+%7C+SSRS+%7C+SQL+Wizard;%F0%9F%8C%90+Building+the+Web%2C+One+Pixel+at+a+Time;%F0%9F%9A%80+Turning+Data+into+Decisions!)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES — ANIMATED PULSE STYLE -->
+<!-- SOCIAL BADGES -->
 <a href="https://gowtham-portfolio-flame.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-FF4500?style=for-the-badge&logoColor=white" />
 </a>
@@ -31,15 +31,13 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Gowtham-Sai-Kumar&color=F7A800&style=flat-square&label=👁️+Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Gowtham-Sai-Kumar?style=flat-square&color=F7A800&label=Followers)
 
 </div>
 
 ---
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowtham-Sai-Kumar/Gowtham-Sai-Kumar/output/github-contribution-grid-snake-dark.svg" />
@@ -52,7 +50,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px"/>
 
 ```yaml
 Name       : Gowtham Sai Kumar Bonu
@@ -70,7 +68,7 @@ Superpowers:
 Currently:
   - 🔭 Shipping features & BI solutions
   - 🌱 Deepening React & JS skills
-  - 📸 Creating content for 700+ IG followers
+  - 📸 Content creator with 700+ IG followers
   - ✍️  Writing on Medium | YouTube journeys
 
 Ask Me About:
@@ -81,7 +79,7 @@ Ask Me About:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -97,7 +95,7 @@ Ask Me About:
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -110,19 +108,21 @@ Ask Me About:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Sai-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Sai-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=ffffff"/>
+
+<!-- FIX: Using streak-stats with correct lowercase username format -->
+<img src="https://streak-stats.demolab.com?user=Gowtham-Sai-Kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7A800&ring=F7A800&fire=FF4500&currStreakLabel=F7A800&sideLabels=F7A800&dates=ffffff&sideNums=ffffff&currStreakNum=F7A800" />
+
+<br/><br/>
+
+<!-- FIX: Stats card via anuraghazra with cache busting params -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Sai-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=ffffff&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Sai-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=ffffff&cache_seconds=1800" />
+
 </div>
 
+<!-- ACTIVITY GRAPH — reliable alternative host -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-Sai-Kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7A800&ring=F7A800&fire=FF4500&currStreakLabel=F7A800" />
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-Sai-Kumar&bg_color=0D1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-Sai-Kumar&bg_color=0D1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=true&area_color=302b63" />
 </div>
 
 ---
@@ -130,7 +130,10 @@ Ask Me About:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gowtham-Sai-Kumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<!-- FIX: Trophy with explicit theme and no-frame -->
+<img src="https://github-profile-trophy.vercel.app/?username=Gowtham-Sai-Kumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
 </div>
 
 ---
@@ -151,7 +154,7 @@ const gowtham = {
 
 ---
 
-## 🌟 Let's Connect & Build Together!
+## 🌟 Let's Connect!
 
 <div align="center">
 
@@ -176,9 +179,7 @@ const gowtham = {
 
 ---
 
-<!-- ANIMATED FOOTER WAVE -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling"/>
 </div>
-
-<!-- ██████████ MADE WITH ❤️ BY GOWTHAM SAI KUMAR BONU ████████████ -->
