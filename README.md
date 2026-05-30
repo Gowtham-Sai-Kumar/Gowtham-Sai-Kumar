@@ -109,30 +109,33 @@ Ask Me About:
 
 <div align="center">
 
-<!-- FIX: Using streak-stats with correct lowercase username format -->
 <img src="https://streak-stats.demolab.com?user=Gowtham-Sai-Kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7A800&ring=F7A800&fire=FF4500&currStreakLabel=F7A800&sideLabels=F7A800&dates=ffffff&sideNums=ffffff&currStreakNum=F7A800" />
 
 <br/><br/>
 
-<!-- FIX: Stats card via anuraghazra with cache busting params -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Sai-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=ffffff&cache_seconds=1800" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Sai-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=ffffff&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gowtham-Sai-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=ffffff" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-Sai-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=ffffff" />
 
 </div>
 
-<!-- ACTIVITY GRAPH — reliable alternative host -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-Sai-Kumar&bg_color=0D1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=true&area_color=302b63" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<!-- FIX: Trophy with explicit theme and no-frame -->
-<img src="https://github-profile-trophy.vercel.app/?username=Gowtham-Sai-Kumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+| 🥇 Achievement | 🏅 Badge |
+|---|---|
+| 💼 Software Engineer | ![Experience](https://img.shields.io/badge/Experience-3.3%20Years-F7A800?style=for-the-badge&logo=briefcase&logoColor=white) |
+| 📸 Instagram Creator | ![Followers](https://img.shields.io/badge/Instagram-700%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white) |
+| 🗄️ Data & BI Expert | ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| 🌐 Web Developer | ![Web](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-1572B6?style=for-the-badge&logo=javascript&logoColor=white) |
+| 🚀 Portfolio Live | ![Portfolio](https://img.shields.io/badge/Portfolio-Live%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| 🧠 SQL Specialist | ![SQL](https://img.shields.io/badge/SQL-SSMS%20%7C%20SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
 </div>
 
@@ -179,7 +182,6 @@ const gowtham = {
 
 ---
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling"/>
 </div>
